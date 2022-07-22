@@ -17,7 +17,8 @@ Unfortunately, the official Create Vite tool doesn't have a Tailwind template [y
 ```bash
 npx degit kometolabs/vite-tailwind-starter my-tailwind-app
 cd my-tailwind-app
-yarn
+yarn || npm i || pnpm i
+yarn dev || npm run dev || pnpm run dev
 ```
 
 **Happy coding!**
