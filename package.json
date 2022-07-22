@@ -1,7 +1,16 @@
 {
   "name": "vite-tailwind-starter",
-  "private": true,
+  "description": "NoJS Vite + Tailwind CSS Starter",
   "version": "0.0.0",
+  "keywords": [
+    "template",
+    "scaffold",
+    "tailwind",
+    "tailwindcss",
+    "vite",
+    "vite-template",
+    "vite-tailwind"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
