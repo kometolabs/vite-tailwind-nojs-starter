@@ -7,8 +7,11 @@
     "scaffold",
     "tailwind",
     "tailwindcss",
+    "tailwind-css",
     "vite",
+    "vitejs",
     "vite-template",
+    "vitejs-temaplate",
     "vite-tailwind"
   ],
   "type": "module",
