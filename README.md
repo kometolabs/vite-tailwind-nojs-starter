@@ -5,7 +5,7 @@ NoJS Vite + Tailwind CSS Starter
 
 The official Create Vite tool doesn't have a Tailwind template [yet](https://github.com/vitejs/vite/pull/9304), so this project gives a solution for quick scaffolding of a new project with Vite and Tailwind CSS preconfigured.
 
-The main feature is that the build stage does not involve any JavaScript, just pure HTML/CSS compilation.
+The important difference of the starter template is that the build stage does not involve any JavaScript, just pure HTML/CSS compilation.
 
 ## When to use
 
