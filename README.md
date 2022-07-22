@@ -9,8 +9,8 @@ Unfortunately, the official Create Vite tool doesn't have a Tailwind template [y
 
 ## When to use
 
-1. When we need to develop a pure HTML/CSS prototype.
-2. When we import a standalone version of a JS framework right through HTML.
+1. When you need to develop a pure HTML/CSS prototype.
+2. When you import a standalone version of a JS framework right through HTML.
 
 ## How to use
 
