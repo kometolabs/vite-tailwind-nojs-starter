@@ -15,7 +15,7 @@ An important difference of this starter template is that the build stage does no
 ## How to use
 
 ```bash
-npx degit kometolabs/vite-tailwind-starter my-tailwind-app
+npx degit kometolabs/vite-tailwind-nojs-starter my-tailwind-app
 cd my-tailwind-app
 pnpm i || yarn || npm i
 pnpm run dev || yarn dev || npm run dev
