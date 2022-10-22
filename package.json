@@ -11,7 +11,7 @@
     "vite",
     "vitejs",
     "vite-template",
-    "vitejs-temaplate",
+    "vitejs-template",
     "vite-tailwind"
   ],
   "type": "module",
