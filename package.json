@@ -18,12 +18,18 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "format": "prettier --write './**/*.{html,js,jsx,ts,tsx}'"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.26",
+    "prettier": "^3.0.0",
+    "prettier-plugin-tailwindcss": "^0.4.1",
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.4"
+  },
+  "dependencies": {
+    "cssnano": "^6.0.1"
   }
 }
