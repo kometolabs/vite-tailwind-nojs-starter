@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 public
+!src/public
 
 # Editor directories and files
 .vscode/*

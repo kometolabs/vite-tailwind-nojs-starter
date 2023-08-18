@@ -5,7 +5,7 @@ export default defineConfig({
     open: "/index.html",
   },
   build: {
-    outDir: "../public",
+    outDir: "../dist",
   },
   root: "src",
 });
