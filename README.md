@@ -7,7 +7,7 @@ Scaffold a new project with Vite and Tailwind CSS preconfigured with ease.
 ## Motivation
 
 Most existing Vite + Tailwind starters are aimed to work with a JS framework, e.g Vue or React.
-An important difference of this starter template is that the build stage does not involve any JavaScript, just pure HTML/CSS compilation.
+**An important difference of this starter template is that the build stage does not involve any JavaScript, just pure HTML/CSS compilation.**
 
 ## When to use
 
