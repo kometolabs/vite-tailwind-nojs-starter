@@ -20,8 +20,8 @@ devDependencies:
     specifier: ^3.3.2
     version: 3.3.2
   prettier-plugin-tailwindcss:
-    specifier: ^0.6.1
-    version: 0.6.1(prettier@3.3.2)
+    specifier: ^0.6.3
+    version: 0.6.3(prettier@3.3.2)
   tailwindcss:
     specifier: ^3.4.4
     version: 3.4.4
@@ -1402,8 +1402,8 @@ packages:
       picocolors: 1.0.0
       source-map-js: 1.2.0
 
-  /prettier-plugin-tailwindcss@0.6.1(prettier@3.3.2):
-    resolution: {integrity: sha512-AnbeYZu0WGj+QgKciUgdMnRxrqcxltleZPgdwfA5104BHM3siBLONN/HLW1yS2HvzSNkzpQ/JAj+LN0jcJO+0w==}
+  /prettier-plugin-tailwindcss@0.6.3(prettier@3.3.2):
+    resolution: {integrity: sha512-GeJ9bqXN4APAP0V5T2a1J/o6a50MWevEUCPWxijpdXFDQkBCoAfz4pQfv+YMXSqZ5GXLMDYio0mUOfrYL7gf4w==}
     engines: {node: '>=14.21.3'}
     peerDependencies:
       '@ianvs/prettier-plugin-sort-imports': '*'
