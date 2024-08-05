@@ -22,7 +22,7 @@
     "format": "prettier --write './src/**/*.{html,js,jsx,ts,tsx}'"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
+    "autoprefixer": "^10.4.20",
     "postcss": "^8.4.40",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.5",
