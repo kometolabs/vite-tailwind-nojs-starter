@@ -28,8 +28,8 @@ importers:
         specifier: ^3.4.17
         version: 3.4.17
       vite:
-        specifier: ^6.0.9
-        version: 6.0.9(jiti@1.21.6)
+        specifier: ^6.0.11
+        version: 6.0.11(jiti@1.21.6)
 
 packages:
 
@@ -1058,8 +1058,8 @@ packages:
   util-deprecate@1.0.2:
     resolution: {integrity: sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==}
 
-  vite@6.0.9:
-    resolution: {integrity: sha512-MSgUxHcaXLtnBPktkbUSoQUANApKYuxZ6DrbVENlIorbhL2dZydTLaZ01tjUoE3szeFzlFk9ANOKk0xurh4MKA==}
+  vite@6.0.11:
+    resolution: {integrity: sha512-4VL9mQPKoHy4+FE0NnRE/kbY51TOfaknxAjt3fJbGJxhIpBZiqVzlZDEesWWsuREXHwNdAoOFZ9MkPEVXczHwg==}
     engines: {node: ^18.0.0 || ^20.0.0 || >=22.0.0}
     hasBin: true
     peerDependencies:
@@ -2016,7 +2016,7 @@ snapshots:
 
   util-deprecate@1.0.2: {}
 
-  vite@6.0.9(jiti@1.21.6):
+  vite@6.0.11(jiti@1.21.6):
     dependencies:
       esbuild: 0.24.2
       postcss: 8.5.1
