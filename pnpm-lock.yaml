@@ -28,8 +28,8 @@ importers:
         specifier: ^4.1.4
         version: 4.1.4
       vite:
-        specifier: ^6.3.0
-        version: 6.3.0(jiti@2.4.2)(lightningcss@1.29.2)
+        specifier: ^6.3.2
+        version: 6.3.2(jiti@2.4.2)(lightningcss@1.29.2)
 
 packages:
 
@@ -879,8 +879,8 @@ packages:
   util-deprecate@1.0.2:
     resolution: {integrity: sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==}
 
-  vite@6.3.0:
-    resolution: {integrity: sha512-9aC0n4pr6hIbvi1YOpFjwQ+QOTGssvbJKoeYkuHHGWwlXfdxQlI8L2qNMo9awEEcCPSiS+5mJZk5jH1PAqoDeQ==}
+  vite@6.3.2:
+    resolution: {integrity: sha512-ZSvGOXKGceizRQIZSz7TGJ0pS3QLlVY/9hwxVh17W3re67je1RKYzFHivZ/t0tubU78Vkyb9WnHPENSBCzbckg==}
     engines: {node: ^18.0.0 || ^20.0.0 || >=22.0.0}
     hasBin: true
     peerDependencies:
@@ -1590,7 +1590,7 @@ snapshots:
 
   util-deprecate@1.0.2: {}
 
-  vite@6.3.0(jiti@2.4.2)(lightningcss@1.29.2):
+  vite@6.3.2(jiti@2.4.2)(lightningcss@1.29.2):
     dependencies:
       esbuild: 0.25.2
       fdir: 6.4.3(picomatch@4.0.2)
