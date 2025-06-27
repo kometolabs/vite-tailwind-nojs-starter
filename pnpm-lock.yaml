@@ -25,8 +25,8 @@ importers:
         specifier: ^0.6.13
         version: 0.6.13(prettier@3.6.2)
       tailwindcss:
-        specifier: ^4.1.10
-        version: 4.1.10
+        specifier: ^4.1.11
+        version: 4.1.11
       vite:
         specifier: ^7.0.0
         version: 7.0.0(jiti@2.4.2)(lightningcss@1.30.1)
