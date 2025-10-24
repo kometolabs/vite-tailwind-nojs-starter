@@ -28,8 +28,8 @@ importers:
         specifier: ^4.1.16
         version: 4.1.16
       vite:
-        specifier: ^7.1.11
-        version: 7.1.11(jiti@2.6.1)(lightningcss@1.30.2)
+        specifier: ^7.1.12
+        version: 7.1.12(jiti@2.6.1)(lightningcss@1.30.2)
 
 packages:
 
@@ -900,9 +900,6 @@ packages:
     engines: {node: '>=16'}
     hasBin: true
 
-  tailwindcss@4.1.15:
-    resolution: {integrity: sha512-k2WLnWkYFkdpRv+Oby3EBXIyQC8/s1HOFMBUViwtAh6Z5uAozeUSMQlIsn/c6Q2iJzqG6aJT3wdPaRNj70iYxQ==}
-
   tailwindcss@4.1.16:
     resolution: {integrity: sha512-pONL5awpaQX4LN5eiv7moSiSPd/DLDzKVRJz8Q9PgzmAdd1R4307GQS2ZpfiN7ZmekdQrfhZZiSE5jkLR4WNaA==}
 
@@ -923,8 +920,8 @@ packages:
   util-deprecate@1.0.2:
     resolution: {integrity: sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==}
 
-  vite@7.1.11:
-    resolution: {integrity: sha512-uzcxnSDVjAopEUjljkWh8EIrg6tlzrjFUfMcR1EVsRDGwf/ccef0qQPRyOrROwhrTDaApueq+ja+KLPlzR/zdg==}
+  vite@7.1.12:
+    resolution: {integrity: sha512-ZWyE8YXEXqJrrSLvYgrRP7p62OziLW7xI5HYGWFzOvupfAlrLvURSzv/FyGyy0eidogEM3ujU+kUG1zuHgb6Ug==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -1659,8 +1656,6 @@ snapshots:
       picocolors: 1.1.1
       sax: 1.4.1
 
-  tailwindcss@4.1.15: {}
-
   tailwindcss@4.1.16: {}
 
   tapable@2.3.0: {}
@@ -1678,7 +1673,7 @@ snapshots:
 
   util-deprecate@1.0.2: {}
 
-  vite@7.1.11(jiti@2.6.1)(lightningcss@1.30.2):
+  vite@7.1.12(jiti@2.6.1)(lightningcss@1.30.2):
     dependencies:
       esbuild: 0.25.11
       fdir: 6.5.0(picomatch@4.0.3)

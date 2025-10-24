@@ -27,7 +27,7 @@
     "prettier": "^3.6.2",
     "prettier-plugin-tailwindcss": "^0.7.1",
     "tailwindcss": "^4.1.16",
-    "vite": "^7.1.11"
+    "vite": "^7.1.12"
   },
   "dependencies": {
     "cssnano": "^7.1.1"
