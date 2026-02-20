@@ -24,3 +24,7 @@ pnpm run dev || yarn dev || npm run dev
 ```
 
 **Happy coding!**
+
+## Deployment
+
+[![Deploy on Hostinger](https://assets.hostinger.com/vps/deploy.svg)](https://www.hostinger.com/web-apps-hosting)
