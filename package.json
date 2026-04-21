@@ -30,6 +30,6 @@
     "vite": "^8.0.9"
   },
   "dependencies": {
-    "cssnano": "^7.1.5"
+    "cssnano": "^7.1.7"
   }
 }
