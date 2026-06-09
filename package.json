@@ -15,7 +15,6 @@
     "vite-tailwind"
   ],
   "type": "module",
-  "packageManager": "pnpm@11.5.2",
   "engines": {
     "node": ">=22.0.0"
   },
