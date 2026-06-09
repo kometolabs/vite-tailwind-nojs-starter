@@ -15,21 +15,23 @@
     "vite-tailwind"
   ],
   "type": "module",
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "format": "prettier --write './src/**/*.{html,js,jsx,ts,tsx}'"
+    "format": "prettier --write './src/**/*.{html,css,js,jsx,ts,tsx}'",
+    "format:check": "prettier --check './src/**/*.{html,css,js,jsx,ts,tsx}'"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.0",
+    "cssnano": "^8.0.1",
     "postcss": "^8.5.15",
     "prettier": "^3.8.3",
     "prettier-plugin-tailwindcss": "^0.8.0",
     "tailwindcss": "^4.3.0",
     "vite": "^8.0.16"
-  },
-  "dependencies": {
-    "cssnano": "^8.0.1"
   }
 }
