@@ -26,12 +26,12 @@
     "format:check": "prettier --check './src/**/*.{html,css,js,jsx,ts,tsx}'"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.3.2",
+    "@tailwindcss/postcss": "^4.3.3",
     "cssnano": "^8.0.2",
-    "postcss": "^8.5.19",
-    "prettier": "^3.9.5",
+    "postcss": "^8.5.22",
+    "prettier": "^3.9.6",
     "prettier-plugin-tailwindcss": "^0.8.1",
-    "tailwindcss": "^4.3.2",
-    "vite": "^8.1.4"
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.1.5"
   }
 }
