@@ -27,9 +27,9 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.3",
-    "cssnano": "^9.0.4",
+    "cssnano": "^9.0.5",
     "postcss": "^8.5.28",
-    "prettier": "^3.9.7",
+    "prettier": "^3.9.9",
     "prettier-plugin-tailwindcss": "^0.8.1",
     "tailwindcss": "^4.3.3",
     "vite": "^8.3.0"
